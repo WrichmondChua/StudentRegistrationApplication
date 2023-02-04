@@ -1,0 +1,16 @@
+C:\Users\ADMIN\source\repos\StudentRegistrationApplication\bin\Debug\netcoreapp3.1\StudentRegistrationApplication.exe
+C:\Users\ADMIN\source\repos\StudentRegistrationApplication\bin\Debug\netcoreapp3.1\StudentRegistrationApplication.deps.json
+C:\Users\ADMIN\source\repos\StudentRegistrationApplication\bin\Debug\netcoreapp3.1\StudentRegistrationApplication.runtimeconfig.json
+C:\Users\ADMIN\source\repos\StudentRegistrationApplication\bin\Debug\netcoreapp3.1\StudentRegistrationApplication.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\StudentRegistrationApplication\bin\Debug\netcoreapp3.1\StudentRegistrationApplication.dll
+C:\Users\ADMIN\source\repos\StudentRegistrationApplication\bin\Debug\netcoreapp3.1\StudentRegistrationApplication.pdb
+C:\Users\ADMIN\source\repos\StudentRegistrationApplication\obj\Debug\netcoreapp3.1\StudentRegistrationApplication.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\StudentRegistrationApplication\obj\Debug\netcoreapp3.1\StudentRegistrationApplication.frmStudentRegistration.resources
+C:\Users\ADMIN\source\repos\StudentRegistrationApplication\obj\Debug\netcoreapp3.1\StudentRegistrationApplication.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\StudentRegistrationApplication\obj\Debug\netcoreapp3.1\StudentRegistrationApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\StudentRegistrationApplication\obj\Debug\netcoreapp3.1\StudentRegistrationApplication.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\StudentRegistrationApplication\obj\Debug\netcoreapp3.1\StudentRegistrationApplication.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\StudentRegistrationApplication\obj\Debug\netcoreapp3.1\StudentRegistrationApplication.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\StudentRegistrationApplication\obj\Debug\netcoreapp3.1\StudentRegistrationApplication.dll
+C:\Users\ADMIN\source\repos\StudentRegistrationApplication\obj\Debug\netcoreapp3.1\StudentRegistrationApplication.pdb
+C:\Users\ADMIN\source\repos\StudentRegistrationApplication\obj\Debug\netcoreapp3.1\StudentRegistrationApplication.genruntimeconfig.cache
